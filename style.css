@@ -95,7 +95,7 @@ div{
     position: absolute;
     top: 746px;
     left: 360px;
-    width: 439.18px;
+    width: 440px;
     height: 108px;
     text-align: left;
     font: normal normal 300 24px/36px PingFang TC;
@@ -663,7 +663,7 @@ div{
 .picture4{
     /* Layout Properties */
     position: absolute;
-    top: 2918px;
+    top: 2938px;
     left: 864px;
     width: 48px;
     height: 48px;
@@ -675,7 +675,7 @@ div{
 .picture5{
     /* Layout Properties */
     position: absolute;
-    top: 2918px;
+    top: 2938px;
     left: 936px;
     width: 48px;
     height: 48px;
@@ -687,11 +687,15 @@ div{
 .picture6{
     /* Layout Properties */
     position: absolute;
-    top: 2918px;
+    top: 2938px;
     left: 1008px;
     width: 48px;
     height: 48px;
     /* UI Properties */
     background: transparent url('img/line.png') 0% 0% no-repeat padding-box;
     opacity: 1;
+}
+
+h1:hover, img:hover, p:hover, hr:hover{
+    border:solid #96A9C4;
 }
